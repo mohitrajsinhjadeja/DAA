@@ -1,8 +1,8 @@
 # Practical 2 - Implementation and Time Analysis of Linear and Binary Search
 
 **Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** jadeja mohitrajsinh
+**Enrollment No:** 92510118004
 
 Files:
 - `practical_02.cpp` - C++ code
