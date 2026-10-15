@@ -1,8 +1,8 @@
 # Practical 6 - Matrix Chain Multiplication using Dynamic Programming
 
 **Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** jadeja mohitrajsinh
+**Enrollment No:** 92510118004
 
 This practical finds the minimum-cost parenthesization for a chain of matrices. The program prints:
 
