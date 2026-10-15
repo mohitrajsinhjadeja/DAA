@@ -1,8 +1,8 @@
 # Practical 7 - Making Change using Dynamic Programming
 
 **Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** jadeja mohitrajsinh
+**Enrollment No:** 92510118004
 
 The program prints every candidate calculation, the minimum-coins DP table, the selected-coin table, and reconstruction of the optimal coins for denominations `{1,3,4}` and amount `6`.
 
